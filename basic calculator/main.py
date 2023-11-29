@@ -1,0 +1,6 @@
+num1 = input("write 1st number:")
+num2 = input("write 2nd number:")
+num3 = input("write 3rd number:")
+num4 = input("write 4th number3:")
+result = (int(num1) + int(num2) - int(num3)) * int(num4)
+print(result)

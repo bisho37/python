@@ -1,0 +1,8 @@
+name = input("write a name:")
+noun = input("write a noun:")
+color = input("write a color:")
+celebrity = input("write a celebrity name:")
+print("My Name is " + name)
+print("I love " + noun)
+print("My favourite color is " + color)
+print("The most celebrity i watch is " + celebrity)
